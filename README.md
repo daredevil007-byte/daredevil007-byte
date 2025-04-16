@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harsha Vardhan
-- 👀 I’m interested in developing Agentic Workflows which is an automated flow and increase the latency of Applications under the hood.
+- 👀 I’m interested in developing Agentic Workflows which is an automated flow and decrease the latency of Applications under the hood.
 - 🌱 I’m currently developing Multi-Agent Systems which can increase the efficiency of Applications in terms of data processing and integration
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach out to me through [Linkedin](https://www.linkedin.com/in/harsha-vardhan-a4aa09252/) or you can mail me at [Gmail](vardhan.h2003@gmail.com)
